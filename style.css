@@ -37,7 +37,7 @@ body{
 }
 .btn-primary{
   position: absolute;
-  top: 75%;
+  top: 85%;
   left: 49%;
   transform: translate(-50%, -50%);
 }
